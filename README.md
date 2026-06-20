@@ -1,1 +1,28 @@
-🎓 Professional Certifications & CredentialsThis repository serves as a centralized, verified archive of my professional development, technical training, and industry certifications. It documents my commitment to continuous learning and staying updated with modern software engineering standards.📜 Certified CredentialsCertification NameDescriptionView CredentialErasoft Professional Software EngineeringComprehensive training in industrial-grade software development standards and practical backend application.PDF FileAdvanced Back-End DevelopmentIntensive training focusing on scalable server-side architecture, database design, and API orchestration.JPG File🛠 Skills & CompetenciesBackend Engineering: Building scalable server-side systems and robust logic.Industrial Standards: Following professional software development lifecycles (SDLC).System Architecture: Designing high-performance backend systems and API orchestration.💬 ContactIf you have any questions regarding these certifications or would like to discuss my professional background, feel free to contact me via my GitHub profile or email.
+# 🎓 Professional Credentials & Certifications
+
+Welcome to my verified archive of professional development. This repository serves as a centralized hub documenting my technical training, certifications, and commitment to maintaining industry-leading software engineering standards.
+
+---
+
+## 📜 Certified Credentials
+
+| Certification | Focus & Impact | Credential Link |
+| :--- | :--- | :--- |
+| **Erasoft Professional Software Engineering** | Mastery of industrial-grade development standards and practical backend implementation. | [View PDF](https://github.com/yst2009/Certifications/blob/main/Certificate%20of%20Erasoft%20Company.pdf) |
+| **Advanced Back-End Development** | Scalable server-side architecture, database design, and API orchestration workflows. | [View JPG](https://github.com/yst2009/Certifications/blob/main/Back%20End%20Training.jpg) |
+
+---
+
+## 🚀 Core Competencies
+
+*   **Backend Engineering**: Building high-concurrency server-side systems and robust logic layers.
+*   **Industrial Standards**: Strict adherence to professional Software Development Lifecycles (SDLC) and clean-code principles.
+*   **System Architecture**: Designing scalable, high-performance backends with efficient API orchestration.
+
+---
+
+## 💬 Connect
+Interested in my professional background or looking to collaborate? Feel free to reach out via my GitHub profile or connect with me via email.
+
+---
+*Built with precision. Constantly learning, consistently building.*
